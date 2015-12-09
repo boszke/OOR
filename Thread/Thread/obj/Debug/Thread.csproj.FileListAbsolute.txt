@@ -1,0 +1,9 @@
+C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\Thread\Thread\bin\Debug\Thread.exe.config
+C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\Thread\Thread\obj\Debug\Thread.csprojResolveAssemblyReference.cache
+C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\Thread\Thread\obj\Debug\Thread.csproj.GenerateResource.Cache
+C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\Thread\Thread\bin\Debug\Thread.exe
+C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\Thread\Thread\bin\Debug\Thread.pdb
+C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\Thread\Thread\obj\Debug\Thread1.Form1.resources
+C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\Thread\Thread\obj\Debug\Thread1.Properties.Resources.resources
+C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\Thread\Thread\obj\Debug\Thread.exe
+C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\Thread\Thread\obj\Debug\Thread.pdb
