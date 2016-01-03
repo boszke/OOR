@@ -1,0 +1,24 @@
+.container .baner,
+.container-fluid .baner {
+  padding-right: 15px;
+  padding-left: 15px;
+  border-bottom-left-radius: 6px;
+  border-bottom-right-radius: 6px;
+  
+}
+.baner {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+  color: inherit;
+  background-color: #0DAAB3;
+}
+.baner p {
+	border-left: 1px solid #FFFFFF;
+	color: #FFFFFF;
+    font-family: roboto;
+    font-size: 13px;
+    padding-left: 30px;
+    line-height: 21px;
+}
+	  
