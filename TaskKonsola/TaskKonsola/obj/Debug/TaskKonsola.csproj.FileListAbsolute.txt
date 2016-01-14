@@ -1,0 +1,6 @@
+C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\TaskKonsola\TaskKonsola\bin\Debug\TaskKonsola.exe.config
+C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\TaskKonsola\TaskKonsola\bin\Debug\TaskKonsola.exe
+C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\TaskKonsola\TaskKonsola\bin\Debug\TaskKonsola.pdb
+C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\TaskKonsola\TaskKonsola\obj\Debug\TaskKonsola.csprojResolveAssemblyReference.cache
+C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\TaskKonsola\TaskKonsola\obj\Debug\TaskKonsola.exe
+C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\TaskKonsola\TaskKonsola\obj\Debug\TaskKonsola.pdb

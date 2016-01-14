@@ -1,0 +1,14 @@
+C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\asynchroniczne\asynchroniczne\bin\Debug\asynchroniczne.exe.config
+C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\asynchroniczne\asynchroniczne\bin\Debug\asynchroniczne.exe
+C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\asynchroniczne\asynchroniczne\bin\Debug\asynchroniczne.pdb
+C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\asynchroniczne\asynchroniczne\obj\Debug\asynchroniczne.csprojResolveAssemblyReference.cache
+C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\asynchroniczne\asynchroniczne\obj\Debug\asynchroniczne.Form1.resources
+C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\asynchroniczne\asynchroniczne\obj\Debug\asynchroniczne.Properties.Resources.resources
+C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\asynchroniczne\asynchroniczne\obj\Debug\asynchroniczne.csproj.GenerateResource.Cache
+C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\asynchroniczne\asynchroniczne\obj\Debug\asynchroniczne.exe
+C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\asynchroniczne\asynchroniczne\obj\Debug\asynchroniczne.pdb
+C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\asynchroniczne\asynchroniczne\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\asynchroniczne\asynchroniczne\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\asynchroniczne\asynchroniczne\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\asynchroniczne\asynchroniczne\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\asynchroniczne\asynchroniczne\obj\Debug\asynchroniczne.csproj.App.config
