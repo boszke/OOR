@@ -1,0 +1,6 @@
+C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\WebSocket\Client\bin\Debug\Client.exe.config
+C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\WebSocket\Client\bin\Debug\Client.exe
+C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\WebSocket\Client\bin\Debug\Client.pdb
+C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\WebSocket\Client\obj\Debug\Client.exe
+C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\WebSocket\Client\obj\Debug\Client.pdb
+C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\WebSocket\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
