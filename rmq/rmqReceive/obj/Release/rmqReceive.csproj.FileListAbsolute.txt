@@ -1,0 +1,11 @@
+C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\rmq\rmqReceive\bin\Release\rmqReceive.exe.config
+C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\rmq\rmqReceive\bin\Release\rmqReceive.exe
+C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\rmq\rmqReceive\bin\Release\rmqReceive.pdb
+C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\rmq\rmqReceive\bin\Release\RabbitMQ.Client.dll
+C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\rmq\rmqReceive\bin\Release\RabbitMQ.Client.xml
+C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\rmq\rmqReceive\obj\Release\rmqReceive.csprojResolveAssemblyReference.cache
+C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\rmq\rmqReceive\obj\Release\rmqReceive.Form1.resources
+C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\rmq\rmqReceive\obj\Release\rmqReceive.Properties.Resources.resources
+C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\rmq\rmqReceive\obj\Release\rmqReceive.csproj.GenerateResource.Cache
+C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\rmq\rmqReceive\obj\Release\rmqReceive.exe
+C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\rmq\rmqReceive\obj\Release\rmqReceive.pdb
